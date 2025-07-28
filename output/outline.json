@@ -1,0 +1,7927 @@
+[
+  {
+    "text": "UNIT",
+    "level": "H1",
+    "page": 1
+  },
+  {
+    "text": "CHAPTER",
+    "level": "H1",
+    "page": 1
+  },
+  {
+    "text": "Natural",
+    "level": "H1",
+    "page": 1
+  },
+  {
+    "text": "Language",
+    "level": "H1",
+    "page": 1
+  },
+  {
+    "text": "Generation",
+    "level": "H1",
+    "page": 1
+  },
+  {
+    "text": "Topics:",
+    "level": "H1",
+    "page": 1
+  },
+  {
+    "text": "Introduction",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Architectures",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Task",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Applications",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Introduction",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "(NLG)",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "branch",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "artificial",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "intelligence",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "(AI)",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "focuses",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "automatically",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "generating",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "human-like",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "information.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "subfield",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Processing",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "(NLP)",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "often",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "used",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "applications",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "such",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "chatbots,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "content",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "automation,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "report",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "generation.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "process",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "generating",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "simple",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "keeping",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "list",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "readymade",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "copied",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "pasted.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Consequences",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "either",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "satisfactory",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "simple",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "applications",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "such",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "horoscope",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "machines",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "generators",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "personalized",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "business",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "letters.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "However,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "sophisticated",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "system",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "required",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "include",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "stages",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "planning",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "merging",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "information",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "looks",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "natural",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "does",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "become",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "repetitive.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "systems",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "typically",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "follow",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "these",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "steps:",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Content",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Determination",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Deciding",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "what",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "information",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "needs",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "included.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Text",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Structuring",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Organizing",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "content",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "logical",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "sequence.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Sentence",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Aggregation",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Combining",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "related",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "information",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "into",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "coherent",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "sentences.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Lexical",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Selection",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Choosing",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "appropriate",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "words",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "phrases.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Refinement",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Formatting",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Adjusting",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "grammar,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "punctuation,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "presentation.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Data-to-Text",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Applications",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "weather",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "forecasts,",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "stock",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "market",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "updates)",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Stages",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Content",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "determination",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Deciding",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "main",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "content",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "represented",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "sentence",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "information",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "mention",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 1
+  },
+  {
+    "text": "Document",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "structuring:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Deciding",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "structure",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "organization",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "conveyed",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "information.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Aggregation:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Putting",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "similar",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "sentences",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "together",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "improve",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "understanding",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "readability.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Lexical",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "choice:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Using",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "appropriate",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "words",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "convey",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "meaning",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "clearly.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Referring",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "expression",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "generation:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Creating",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "such",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "referral",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "expressions",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "help",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "identification",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "particular",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "object",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "region.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "This",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "task",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "also",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "includes",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "making",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "decisions",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "about",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "pronouns",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "other",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "types",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "anaphora.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Realisation:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Creating",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "optimizing",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "should",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "correct",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "rules",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "grammar.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "example,",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "using",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "will",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "future",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "tense",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Techniques",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Evaluating",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "systems",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Task-based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "evaluation:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "includes",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "human-based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "evaluation,",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "assess",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "well",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "helps",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "perform",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "task.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "example,",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "system",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "which",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "generates",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "summaries",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "medical",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "evaluated",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "giving",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "these",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "summaries",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "doctors",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "assessing",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "whether",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "summaries",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "help",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "doctors",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "make",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "better",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "decisions.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Human",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "ratings:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "assess",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "generated",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "basis",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "ratings",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "given",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "person",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "quality",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "usefulness",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Metrics:",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "compares",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "generated",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "texts",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "texts",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "written",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "professionals.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architectures",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Systems",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Traditional",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Rule",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architecture",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Template",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architecture(Pipeline",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architecture)",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Statistical",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Machine",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Learning",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architecture",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Deep",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Learning",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architecture",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Hybrid",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Architecture",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Template-Based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Template-based",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "simplest",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "methods",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "generation.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "follows",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "pre-",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "defined",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "templates",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "placeholders",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "filled",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "data.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Working",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Mode",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "human",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "creates",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "fixed",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "sentence",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "structures",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "(templates).",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "system",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "fills",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "these",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "templates",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "relevant",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "data.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "output",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "follows",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "consistent",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "format.",
+    "level": "H2",
+    "page": 2
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Template:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "weather",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "[City]",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "currently",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "[Temperature]",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "degrees",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "[Condition].\"",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Data",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Input:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "{City:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "\"New",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "York\",",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Temperature:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "\"25°C\",",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Condition:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "\"Sunny\"}",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Generated",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "weather",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "York",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "currently",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "25°C",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "sunny",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "conditions.\"",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Advantages:",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Easy",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Implement",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Simple",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "rule-based",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "generation.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "High",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Control",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Ensures",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "grammatically",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "correct",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "sentences.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Useful",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Structured",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Data",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Works",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "well",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "generating",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "reports",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "weather,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "sports,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "financial",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "updates).",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Limitations",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Limited",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Creativity",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "only",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "predefined",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "structures.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Scalable",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Needs",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "templates",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "different",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "topics.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Cannot",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Handle",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Context",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Lacks",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "dynamic",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "variation.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Cases",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Weather",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Reports",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Financial",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Summaries",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Sports",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Game",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Reports",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Personalized",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Email",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Templates",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Rule-Based",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Rule-based",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "systems",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "linguistic",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "rules",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "(grammar,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "syntax,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "vocabulary)",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "dynamically.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Unlike",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "template-based",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "approaches,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "they",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "allow",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "some",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "flexibility",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "sentence",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "construction.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Working",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Mode",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "if-then",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "rules",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "determine",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "sentence",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "structures.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Applies",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "grammar",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "rules",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "combine",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "words",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "correctly.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "lexical",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "databases",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "WordNet)",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "vary",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "vocabulary.",
+    "level": "H2",
+    "page": 3
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "News",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Report",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Rule:",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "wins",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "\"Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "defeated",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "score",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Match",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Drawn",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "match",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "between",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "ended",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "draw.\"",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Input",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Data:",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "\"Manchester",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "United\"",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Team",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "\"Chelsea\"",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Score",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "\"2-1\"",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Generated",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "\"Manchester",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "United",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "defeated",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Chelsea",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "score",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "2-1.\"",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Advantages:",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "More",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Flexibility",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Than",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Templates",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "dynamic",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "sentences.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Ensures",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Correct",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Grammar",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "linguistic",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "rules.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Good",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Structured",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Domains",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Works",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "well",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "reports,",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "legal",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "texts,",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "business",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "documents.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Limitations",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Requires",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Manual",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Rule",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Creation",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Time-consuming",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "difficult",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "scale.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Rigid",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Handling",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Cannot",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "natural,",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "creative",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Fails",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Unstructured",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Data",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Cannot",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "open-ended",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "conversations.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Cases",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Automated",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Journalism",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Legal",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Document",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Drafting",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Chatbots",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "(Basic",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Responses)",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Customer",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Support",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Responses",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Machine",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Learning-Based",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Machine",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Learning",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "(ML)-based",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "improves",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "upon",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "rule-based",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "approaches",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "linguistic",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "patterns",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "rather",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "than",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "relying",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "predefined",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "rules.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Working",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Mode:",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "statistical",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "models",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "predict",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "words",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "previous",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Trained",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "large",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "datasets",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "learn",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "grammar,",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "syntax,",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "structure.",
+    "level": "H2",
+    "page": 4
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "probabilistic",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "methods",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "sentences",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "dynamically.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Email",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Autocomplete",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Input:",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "\"Looking",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "forward",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Model",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Suggests:",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "\"seeing",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "tomorrow!\"",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "model",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "learns",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "historical",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "predicts",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "most",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "likely",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "completion.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Types",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "ML-Based",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "N-Gram",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Predicts",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "next",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "word",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "previous",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "words.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Hidden",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Markov",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "(HMMs)",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "probabilities",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "sentences.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Conditional",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Random",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Fields",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "(CRFs)",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "sequence",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "prediction",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "tasks.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Advantages",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Learns",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Data",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "adapt",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "without",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "manually",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "defining",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "rules.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "More",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Flexible",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "unseen",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "sentences",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "dynamically.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Improved",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Accuracy",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Learns",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "large",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "datasets",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "over",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "time.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Limitations",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Requires",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Large",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Training",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Data",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Needs",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "labeled",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "datasets",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "learn",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "patterns.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Limited",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Context",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Understanding",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Cannot",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "handle",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "long-range",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "dependencies.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Fully",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Context-Aware",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Predictions",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "only",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "previous",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "words.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Cases",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Predictive",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Text",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Smartphone",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Keyboards)",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Basic",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Chatbots",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Email",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Auto-Completion",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Product",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Description",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Deep",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Learning-Based",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Deep",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Learning",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "(DL)",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "takes",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "machine",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "further",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "using",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "neural",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "networks",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "human-like",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "These",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "models",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "understand",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "context",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "better",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "more",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "coherent,",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "natural",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "language.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Working",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Mode",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Recurrent",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Neural",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Networks",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "(RNNs)",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Transformers",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Trained",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "massive",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "datasets",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "(millions",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "books,",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "articles,",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "conversations).",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "long,",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "contextually",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "relevant",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "responses.",
+    "level": "H2",
+    "page": 5
+  },
+  {
+    "text": "Deep",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Learning",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Recurrent",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Neural",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Networks",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(RNNs)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Handles",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "sequential",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "chatbot",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "responses).",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Struggles",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "long-term",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "context",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "retention.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Long",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Short-Term",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Memory",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(LSTM)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Gated",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Recurrent",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Units",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(GRU)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Improved",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "RNNs",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "remember",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "long-term",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "dependencies.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "conversational",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "predictive",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Transformer",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(State-of-the-Art)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "self-attention",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "process",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "entire",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "sentences",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "once.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Generates",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "high-quality,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "fluent,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "context-aware",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Examples:",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "GPT-3,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "GPT-4,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "BERT,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "BART.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Chatbot",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Response",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Input:",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "\"Tell",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "about",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Eiffel",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Tower.\"",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Generated",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Eiffel",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Tower,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "located",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Paris,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "France,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "330-meter-tall",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "structure",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "built",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "1889.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "most",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "famous",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "landmarks",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "world.\"",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Advantages",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Generates",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Human-Like",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Text",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "More",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "fluent",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "natural.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Understands",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Context",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Grammar",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "creative,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "informative",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "responses.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Handles",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Long-Form",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Content",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Good",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "essays,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "articles,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "summaries.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Limitations",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Computationally",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Expensive",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Requires",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "high",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "processing",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "power.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Risk",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Bias",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "learn",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "biases",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "training",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "data.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "100%",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Reliable",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "incorrect",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "nonsensical",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Cases",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Chatbots",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(ChatGPT,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Google",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Bard)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Content",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Writing",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(Marketing,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Blogging)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Text",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Summarization",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Code",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "GitHub",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Copilot)",
+    "level": "H2",
+    "page": 6
+  },
+  {
+    "text": "Hybrid",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Hybrid",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "architectures",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "combine",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "multiple",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "approaches",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "(rule-based,",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "deep",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "learning)",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "better",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "control",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "accuracy.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Working",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Mode",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "rule-based",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "systems",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "content.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "machine",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "learning/deep",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "natural,",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "creative",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "news",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "generator",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "uses",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "rules",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "headlines",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "deep",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "article",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "content.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "AI-Powered",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Customer",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Support",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Rule-Based",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Part:",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Greets",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "users",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "asks",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "issue",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "details.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "ML-Based",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Part:",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Classifies",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "user's",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "issue.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Deep",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Learning",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Part:",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Generates",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "personalized",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "response.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Advantages",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "More",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Control",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "rules",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "where",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "precision",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "needed.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Balances",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Accuracy",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Creativity",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Best",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "both",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "worlds.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Handles",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Multiple",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Cases",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Good",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "unstructured",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "content.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Limitations",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Complex",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Develop",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Requires",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "integrating",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "different",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "systems.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Higher",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Computational",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Cost",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Needs",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "both",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "rule-based",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "components.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Cases",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "AI-Powered",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "News",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Writing",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Personalized",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Marketing",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Emails",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Customer",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Support",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Chatbots",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Task",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "(NLG)",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "(NLG)",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "involves",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "producing",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "human-like",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "given",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "input",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "data.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "process",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "relies",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "generation",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "tasks",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "different",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "types",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "representations",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "define",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "information",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "before",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "being",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "converted",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "into",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "natural",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "language.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Tasks",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "tasks",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "vary",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "type",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "content",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "needs",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "created.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Some",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "tasks",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "focus",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "producing",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "reports,",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "while",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "others",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "open-ended",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Below",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "tasks:",
+    "level": "H2",
+    "page": 7
+  },
+  {
+    "text": "Text",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Summarization",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Goal:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generate",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "concise",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "version",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "given",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "document",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "while",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "preserving",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "information.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Types:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Extractive",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Summarization:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Selects",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "rearranges",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "important",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "sentences",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "input",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Abstractive",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Summarization:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generates",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "sentences",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "summarize",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "main",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "ideas",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "using",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "transformer",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "models",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "like",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "BART).",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Input:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Eiffel",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Tower,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "iconic",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "structure",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Paris,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "built",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "1889.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "stands",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "meters",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "tall.\"",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Eiffel",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Tower,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "built",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "1889,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "330-meter",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "landmark",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Paris.\"",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Machine",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Translation",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Goal:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Convert",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "language",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "another",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "while",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "preserving",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "meaning.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Examples:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "English:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "\"Hello,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "you?\"",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "French",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "(Generated",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Output):",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "\"Bonjour,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "comment",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Common",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Models:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Google",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Translate",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "(based",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "transformers",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "like",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "mBART,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "MarianNMT).",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Dialogue",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "(Conversational",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Goal:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generate",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "human-like",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "responses",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "conversation.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Types:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Rule-Based:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Predefined",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "responses.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Retrieval-Based:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Selects",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "best",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "response",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "database.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generative:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Creates",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "responses",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "dynamically",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "models).",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Input:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "\"Tell",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "about",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Mars.\"",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "\"Mars",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "fourth",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "planet",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Sun,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "known",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "surface",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "thin",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "atmosphere.\"",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Story",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Content",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Goal:",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Generate",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "creative",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "such",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "news",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "articles,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "stories,",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "marketing",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "content.",
+    "level": "H2",
+    "page": 8
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Input",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Prompt:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"Write",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "fantasy",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "story",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "about",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "dragon.\"",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Generated",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"Once",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "upon",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "time,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "mighty",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "dragon",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "guarded",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "ancient",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "kingdom,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "breathing",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "fire",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "protect",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "people.\"",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Common",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Models:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "GPT-4,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "GPT-3,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Bard,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Claude.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Data-to-Text",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Goal:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Convert",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "into",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "natural",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "language",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "text.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Example",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "(Weather",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Report",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Generation):",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Input",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "(Data",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Table):",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "{City:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"New",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "York\",",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Temp:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"25°C\",",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Condition:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"Sunny\"}",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"The",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "weather",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "York",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "currently",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "25°C",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "with",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "sunny",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "skies.\"",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Applications:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Sports",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "reports,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "financial",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "summaries,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "automated",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "journalism.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Code",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Goal:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Generate",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "code",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "natural",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "language",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "descriptions.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Input:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "\"Write",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Python",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "function",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "calculate",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "factorial",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "number.\"",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Generated",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Output:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "factorial(n):",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "return",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "else",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "factorial(n-1)",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Common",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Models:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "OpenAI",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Codex,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "GitHub",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Copilot,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "AlphaCode.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "text,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "models",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "need",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "represent",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "information",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "before",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "converting",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "into",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "language.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "There",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "different",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "representation",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "types:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Symbolic",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "What",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "logical",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "rules,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "ontologies,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "templates.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Knowledge",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "graphs",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "rule-based",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "systems.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Rule-based",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "NLG,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Template-Based",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "NLG.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Statistical",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "What",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "probabilities",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "determine",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "most",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "likely",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "word",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "sequences.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "N-gram",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "models,",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Hidden",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Markov",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Models",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "(HMM).",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Early",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "machine",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "models.",
+    "level": "H2",
+    "page": 9
+  },
+  {
+    "text": "Vector",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "(Embeddings)",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Represents",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "words",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "mathematical",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "vectors",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "high-dimensional",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "space.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Word2Vec,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "GloVe,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "FastText.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Deep",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "learning-based",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "(e.g.,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "GPT,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "BERT).",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Transformer-Based",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Representations",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "What",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Uses",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "self-attention",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "mechanisms",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "process",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "entire",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "sequences",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "once.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "BERT:",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Context-aware",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "bidirectional",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "embeddings.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "GPT:",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Autoregressive",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "transformer-based",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "generation.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "State-of-the-art",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "models.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Applications",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "(NLG)",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "subset",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Artificial",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Intelligence",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "(AI)",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Natural",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Language",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Processing",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "(NLP)",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "that",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "involves",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "generating",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "human-like",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "text",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "unstructured",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "data.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "numerous",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "applications",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "across",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "various",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "industries.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Here",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "some",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "applications:",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Chatbots",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Virtual",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Assistants",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "powers",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "AI-driven",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "chatbots",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "virtual",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "assistants",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "like",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Siri,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Alexa,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Google",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Assistant.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "enables",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "them",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "human-like",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "responses",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "user",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "queries.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "enhances",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "customer",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "service,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "automates",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "responses,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "improves",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "user",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "engagement.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Automated",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Content",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Generation",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "used",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "create",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "articles,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "summaries,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "reports",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "domains",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "like",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "finance,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "sports,",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "journalism.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "News",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "agencies",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "financial",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "reports",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "sports",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "match",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "summaries.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Helps",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "reduce",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "manual",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "effort",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "speeds",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "content",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "creation.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Business",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Intelligence",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Data",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Reporting",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Converts",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "structured",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "data",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "into",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "meaningful",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "narratives.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Used",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "business",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "dashboards",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "provide",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "insights",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "natural",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "language",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "rather",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "than",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "numbers.",
+    "level": "H2",
+    "page": 10
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "financial",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "analytics",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "generates",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "earnings",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "reports,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "market",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "insights,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "data-driven",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "forecasts.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "E-commerce",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Personalized",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Recommendations",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Generates",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "product",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "descriptions,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "reviews,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "personalized",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "recommendations",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "user",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "behaviour.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Amazon",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "eBay",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "automated",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "product",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "descriptions.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Enhances",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "customer",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "experience",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "increases",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "conversion",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "rates.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Healthcare",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Medical",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Reporting",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Helps",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "generating",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "clinical",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "reports,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "medical",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "summaries,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "diagnostic",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "insights",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "patient",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "data.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Watson",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "uses",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "provide",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "medical",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "insights",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "from",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "patient",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "records.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Reduces",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "workload",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "doctors",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "improves",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "accuracy",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "documentation.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Legal",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Document",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Automation",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Assists",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "drafting",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "contracts,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "legal",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "summaries,",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "case",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "reports.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Reduces",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "time",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "spent",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "legal",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "documentation.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "AI-powered",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "legal",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "assistants",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "generate",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "contracts",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "based",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "predefined",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "templates.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Education",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "E-Learning",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Generates",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "personalized",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "content",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "automated",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "feedback",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "students.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Example:",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "tutors",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "explain",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "concepts",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "provide",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "real-time",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "assistance.",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "Helps",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "adaptive",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "learning",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "enhances",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "student",
+    "level": "H2",
+    "page": 11
+  },
+  {
+    "text": "engagement.",
+    "level": "H2",
+    "page": 11
+  }
+]

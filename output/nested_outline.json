@@ -1,0 +1,573 @@
+{
+  "title": "UNIT IV: CHAPTER 1",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "UNIT IV: CHAPTER 1",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Natural Language Generation",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Topics:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction to NLG",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "NLG Architectures",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Generation Task and Representations",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Applications of NLG",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Introduction to NLG",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "NLG systems typically follow these steps:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Content Determination – Deciding what information needs to be included.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Text Structuring – Organizing the content in a logical sequence.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Sentence Aggregation – Combining related information into coherent sentences.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Lexical Selection – Choosing appropriate words and phrases.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Refinement & Formatting – Adjusting grammar, punctuation, and presentation.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Stages of Natural Language Generation",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Techniques for Evaluating NLG systems",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Task-based evaluation: It includes human-based evaluation, who assess how well it",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Human ratings: It assess the generated text on the basis of ratings given by a person",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Metrics: It compares generated texts to texts written by professionals.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Architectures of NLG Systems",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Traditional Rule Based Architecture",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Template Based Architecture(Pipeline Architecture)",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Statistical & Machine Learning Based Architecture",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Deep Learning Based Architecture",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Hybrid Architecture",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Template-Based NLG",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Working Mode :",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Example:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Template:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Data Input:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Generated Output:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Advantages:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Limitations",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Limited Creativity – Can only generate predefined structures.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Not Scalable – Needs new templates for different topics.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Cannot Handle Context – Lacks dynamic text variation.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Use Cases",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Rule-Based NLG",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Working Mode :",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Example: News Report Generation",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Rule:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Input Data:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Generated Output:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Advantages:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Limitations",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Requires Manual Rule Creation – Time-consuming and difficult to scale.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Rigid Language Handling – Cannot generate natural, creative text.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Fails in Unstructured Data – Cannot generate open-ended conversations.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Use Cases",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Machine Learning-Based NLG",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Machine Learning (ML)-based NLG improves upon rule-based approaches by learning",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Working Mode:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Example: Email Autocomplete",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "The model learns from historical data and predicts the most likely completion.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Types of ML-Based Models",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "N-Gram Models – Predicts the next word based on previous N words.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Hidden Markov Models (HMMs) – Uses probabilities to generate sentences.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Conditional Random Fields (CRFs) – Used in sequence prediction tasks.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Advantages",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Limitations",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Requires Large Training Data – Needs labeled datasets to learn patterns.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Limited Context Understanding – Cannot handle long-range dependencies.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Not Fully Context-Aware – Predictions are based only on previous words.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Use Cases",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Deep Learning-Based NLG",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Working Mode :",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Key Deep Learning Models",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Recurrent Neural Networks (RNNs)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Long Short-Term Memory (LSTM) / Gated Recurrent Units (GRU)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Transformer Models (State-of-the-Art)",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Example: AI Chatbot Response",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Input: \"Tell me about the Eiffel Tower.\"",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Generated Output:",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Advantages",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Limitations",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Computationally Expensive – Requires high processing power.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Risk of Bias – Models can learn biases from training data.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Not 100% Reliable – May generate incorrect or nonsensical text.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Use Cases",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Hybrid NLG",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Working Mode :",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Example: AI-Powered Customer Support",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Advantages",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Limitations",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Complex to Develop – Requires integrating different systems.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Higher Computational Cost – Needs both rule-based and AI components.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Use Cases",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Generation Task and Representations in Natural Language Generation (NLG)",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Generation Tasks in NLG",
+      "page": 7,
+      "subsections": [
+        {
+          "level": "H2",
+          "text": "Text Summarization",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "level": "H1",
+      "text": "meters tall.\"",
+      "page": 8,
+      "subsections": [
+        {
+          "level": "H2",
+          "text": "Machine Translation",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "level": "H1",
+      "text": "MarianNMT).",
+      "page": 8,
+      "subsections": [
+        {
+          "level": "H2",
+          "text": "Dialogue Generation (Conversational AI)",
+          "page": 8
+        },
+        {
+          "level": "H2",
+          "text": "Story and Content Generation",
+          "page": 8
+        },
+        {
+          "level": "H2",
+          "text": "Data-to-Text Generation",
+          "page": 9
+        },
+        {
+          "level": "H2",
+          "text": "Code Generation",
+          "page": 9
+        }
+      ]
+    },
+    {
+      "level": "H1",
+      "text": "Representations in NLG",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "To generate text, models need a structured way to represent information before",
+      "page": 9,
+      "subsections": [
+        {
+          "level": "H2",
+          "text": "Symbolic Representations",
+          "page": 9
+        },
+        {
+          "level": "H2",
+          "text": "Statistical Representations",
+          "page": 9
+        },
+        {
+          "level": "H2",
+          "text": "Vector Representations (Embeddings)",
+          "page": 10
+        },
+        {
+          "level": "H2",
+          "text": "Transformer-Based Representations",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "level": "H1",
+      "text": "Applications of NLG",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Chatbots & Virtual Assistants",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Assistant.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Automated Content Generation",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Business Intelligence & Data Reporting",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "E-commerce & Personalized Recommendations",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Healthcare & Medical Reporting",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Legal Document Automation",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Education & E-Learning",
+      "page": 11
+    }
+  ]
+}
