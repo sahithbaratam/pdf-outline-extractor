@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Jupyter or IPython
+.ipynb_checkpoints/
+
+# VS Code or IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output or data files
+/output/
+input/sample.pdf
+
+# Docker
+*.pid
+*.tar
+*.sock
+
+# Virtual Environments
+.env/
+venv/
+ENV/
+
+# Streamlit cache
+.streamlit/
+
+# Ignore compiled output (optional)
+*.out
