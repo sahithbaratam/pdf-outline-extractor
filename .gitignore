@@ -1,36 +1,11 @@
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
+echo "__pycache__/
+*.pyc
+*.pyo
+*.pyd
 *.log
-
-# Jupyter or IPython
-.ipynb_checkpoints/
-
-# VS Code or IDE settings
+.env
+output/
+input/
 .vscode/
-.idea/
-
-# OS files
 .DS_Store
-Thumbs.db
-
-# Output or data files
-/output/
-input/sample.pdf
-
-# Docker
-*.pid
-*.tar
-*.sock
-
-# Virtual Environments
-.env/
-venv/
-ENV/
-
-# Streamlit cache
-.streamlit/
-
-# Ignore compiled output (optional)
-*.out
+*.egg-info/" > .gitignore
